@@ -1,6 +1,9 @@
 {
   "pl": true,
-  "title": "Faker.words(2, true)",
+  "img_src": "../../../../images/pic01.jpg",
+  "img_alt": "This is an image",
+  "title": "Magna",
+  "subtitle": "Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.",
   "text": "Faker.words(3, true)",
   "site_title": "Faker.words(2, true)",
   "site_slogan": "Faker.words(5, true)",
@@ -8,11 +11,13 @@
     "short": "Faker.words(3, true)",
     "medium": "Faker.words(7, true)"
   },
+
   "excerpt": {
     "short": "Faker.sentence",
     "medium": "Faker.sentences(2, true)",
     "long": "Faker.paragraph"
   },
+  
   "description": "Faker.paragraphs(2, true)",
   "url": "http://example.com",
   "name": {

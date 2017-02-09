@@ -51,6 +51,11 @@
       "comment": ""
     },
     {
+      "name": "$c-pink",
+      "value": "hsl(360, 50%, 60%)",
+      "comment": ""
+    },
+    {
       "name": "$c-black",
       "value": "black",
       "comment": ""
