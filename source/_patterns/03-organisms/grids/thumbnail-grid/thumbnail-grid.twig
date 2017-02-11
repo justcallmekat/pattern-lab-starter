@@ -1,23 +1,8 @@
+
+
+
 <section class="tiles">
-{% include '@molecules/box-thumbnail.twig' with {title: 'Magna',   style: 'style1', content: '', img_src: '../../../../images/pic01.jpg', img_alt: 'This is an image'} %}
-{% include '@molecules/box-thumbnail.twig' with {title: 'Lorem',   style: 'style2', cotnent: '', img_src: '../../../../images/pic02.jpg', img_alt: 'This is an image'} %}
-{% include '@molecules/box-thumbnail.twig' with {title: 'Feugiat', style: 'style3', content: '', img_src: '../../../../images/pic03.jpg', img_alt: 'This is an image'} %}
-
-
-
-{% include '@molecules/box-thumbnail.twig' with {title: 'Tempus',    style: 'style4', content: '', img_src: '../../../../images/pic04.jpg', img_alt: 'This is an image'} %}
-{% include '@molecules/box-thumbnail.twig' with {title: 'Aliquam',   style: 'style5', cotnent: '', img_src: '../../../../images/pic05.jpg', img_alt: 'This is an image'} %}
-{% include '@molecules/box-thumbnail.twig' with {title: 'Veroesros', style: 'style6', content: '', img_src: '../../../../images/pic06.jpg', img_alt: 'This is an image'} %}
-
-
-
-{% include '@molecules/box-thumbnail.twig' with {title: 'Ipsum',   style: 'style2', content: '', img_src: '../../../../images/pic07.jpg', img_alt: 'This is an image'} %}
-{% include '@molecules/box-thumbnail.twig' with {title: 'Dolor',   style: 'style3', cotnent: '', img_src: '../../../../images/pic08.jpg', img_alt: 'This is an image'} %}
-{% include '@molecules/box-thumbnail.twig' with {title: 'Nullam',  style: 'style4', content: '', img_src: '../../../../images/pic09.jpg', img_alt: 'This is an image'} %}
-
-
-
-{% include '@molecules/box-thumbnail.twig' with {title: 'Ultricies',   style: 'style5', content: '', img_src: '../../../../images/pic10.jpg', img_alt: 'This is an image'} %}
-{% include '@molecules/box-thumbnail.twig' with {title: 'Dictum',      style: 'style6', cotnent: '', img_src: '../../../../images/pic11.jpg', img_alt: 'This is an image'} %}
-{% include '@molecules/box-thumbnail.twig' with {title: 'Pretium',     style: 'style1', content: '', img_src: '../../../../images/pic12.jpg', img_alt: 'This is an image'} %}
+  {% for thumbnail in thumbnails %}
+    {% include '@molecules/box-thumbnail.twig' with thumbnail %}
+  {% endfor %}
 </section>
