@@ -1,8 +1,8 @@
 {
   "thumbnails": [
-  {
+{
 "title": "Magna",
-"style": "style1",
+"number": "1",
 "subtitle": "Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.",
 "img_src": "../../../../images/pic01.jpg",
 "img_alt": "This is an image"
@@ -10,7 +10,7 @@
 
 {
 "title": "Lorem",
-"style": "style2",
+"number": "2",
 "subtitle": "Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.",
 "img_src": "../../../../images/pic02.jpg",
 "img_alt": "This is an image"
@@ -18,7 +18,7 @@
 
 {
 "title": "Feugiat",
-"style": "style3",
+"number": "3",
 "subtitle": "Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.",
 "img_src": "../../../../images/pic03.jpg",
 "img_alt": "This is an image"
@@ -27,7 +27,7 @@
 
 {
 "title": "Tempus",
-"style": "style4",
+"number": "4",
 "subtitle": "Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.",
 "img_src": "../../../../images/pic04.jpg",
 "img_alt": "This is an image"
@@ -36,7 +36,7 @@
 
 {
 "title": "Aliquam",
-"style": "style5",
+"number": "5",
 "subtitle": "Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.",
 "img_src": "../../../../images/pic05.jpg",
 "img_alt": "This is an image"
@@ -44,7 +44,7 @@
 
 {
 "title": "Veroesros",
-"style": "style6",
+"number": "6",
 "subtitle": "Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.",
 "img_src": "../../../../images/pic06.jpg",
 "img_alt": "This is an image"
@@ -52,7 +52,7 @@
 
 {
 "title": "Ipsum",
-"style": "style2",
+"number": "2",
 "subtitle": "Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.",
 "img_src": "../../../../images/pic07.jpg",
 "img_alt": "This is an image"
@@ -61,7 +61,7 @@
 
 {
 "title": "Dolor",
-"style": "style3",
+"number": "3",
 "subtitle": "Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.",
 "img_src": "../../../../images/pic08.jpg",
 "img_alt": "This is an image"
@@ -69,7 +69,7 @@
 
 {
 "title": "Nullam",
-"style": "style4",
+"number": "4",
 "subtitle": "Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.",
 "img_src": "../../../../images/pic09.jpg",
 "img_alt": "This is an image"
@@ -78,7 +78,7 @@
 
 {
 "title": "Ultricies",
-"style": "style5",
+"number": "5",
 "subtitle": "Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.",
 "img_src": "../../../../images/pic10.jpg",
 "img_alt": "This is an image"
@@ -86,7 +86,7 @@
 
 {
 "title": "Dictum",
-"style": "style6",
+"number": "6",
 "subtitle": "Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.",
 "img_src": "../../../../images/pic11.jpg",
 "img_alt": "This is an image"
@@ -94,7 +94,7 @@
 
 {
 "title": "Pretium",
-"style": "style1",
+"number": "1",
 "subtitle": "Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.",
 "img_src": "../../../../images/pic12.jpg",
 "img_alt": "This is an image"
