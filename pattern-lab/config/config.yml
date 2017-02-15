@@ -62,6 +62,7 @@ plugins:
           - ../source/_patterns/01-atoms/01-typography/fonts
           - ../source/_patterns/01-atoms/01-typography/headings
           - ../source/_patterns/01-atoms/01-typography/lists
+          - ../source/_patterns/01-atoms/01-typography/test
           - ../source/_patterns/01-atoms/01-typography/text
           - ../source/_patterns/01-atoms/buttons
           - ../source/_patterns/01-atoms/images
@@ -76,6 +77,7 @@ plugins:
           - ../source/_patterns/03-organisms
           - ../source/_patterns/03-organisms/grids/caption-grid-block
           - ../source/_patterns/03-organisms/grids/thumbnail-grid
+          - ../source/_patterns/03-organisms/site
           - ../source/_patterns/03-organisms/site/site-footer
           - ../source/_patterns/03-organisms/site/site-header
       templates:
