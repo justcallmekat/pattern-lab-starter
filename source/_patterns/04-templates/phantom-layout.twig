@@ -1,0 +1,43 @@
+
+<!-- Wrapper -->
+<div id="wrapper">
+
+  <!-- Header -->
+
+ {% include "@organisms/site/site-header/phantom-logo.twig" %}
+
+
+  <!-- Menu -->
+
+{% include "@organisms/site/site-header/phantom-menu.twig" %}
+
+
+  <!-- Main -->
+  <div id="main">
+    <div class="inner">
+      <header>
+        {% include "@organisms/site/site-header/phantom-header.twig" %}
+      </header>
+
+<!-- Grid -->
+      <section class="tiles">
+        {% include "@organisms/grids/thumbnail-grid/thumbnail-grid.twig" %}
+        {# %  include "@molecules/box-thumbnail/box-thumbnail.twig" % #}
+      </section>
+    </div> <!-- /.inner END-->
+  </div> <!-- /#main END-->
+
+  <!-- Footer -->
+  <footer id="footer">
+    <div class="inner">
+      {% include "@organisms/site/site-footer/phantom-footer.twig" %}
+    </div>
+  </footer>
+</div> <!--/.wrapper END-->
+
+<!-- Scripts -->
+<script src="assets/js/jquery.min.js"></script>
+<script src="assets/js/skel.min.js"></script>
+<script src="assets/js/util.js"></script>
+<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+<script src="assets/js/main.js"></script>
