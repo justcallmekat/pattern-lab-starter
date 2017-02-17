@@ -1,0 +1,38 @@
+{
+    "logo_link": "index.html",
+    "img_src": "../../../../../image/logo.svg",
+    "img_alt": "",
+    "hamburger": "#menu",
+    "hamburger_text": "Menu",
+    "hamburger_close": "Close",
+    "logo_header": "Phantom",
+    "menu_subhead": "Menu",
+    "menus":[
+          {
+              "menu_link": "index.html",
+              "menu_text": "Home"
+          },
+          {   "menu_link": "generic.html",
+              "menu_text": "Ipsum veroeros"
+          },
+          {
+              "menu_link": "generic.html",
+              "menu_text": "Tempus etiam"
+          },
+          {
+              "menu_link": "generic.html",
+              "menu_text": "Consequat dolor"
+          },
+          {
+              "menu_link": "elements.html",
+              "menu_text": "Elements"
+      }
+      ],
+    "main_header1": "This is Phantom, a free, fully responsive site",
+    "main_header2": "template designed by",
+    "html5_up": "http://html5up.net",
+    "html5_up_text": "HTML5 UP",
+    "main_desc": "Etiam quis viverra lorem, in semper lorem. Sed nisl arcu euismod sit amet nisi euismod sed cursus arcu elementum ipsum arcu vivamus quis venenatis orci lorem ipsum et magna feugiat veroeros aliquam. Lorem ipsum dolor sit amet nullam dolore.",
+    "main_desc_end": "."
+
+}

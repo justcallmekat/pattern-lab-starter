@@ -72,12 +72,15 @@ plugins:
           - ../source/_patterns/02-molecules/box-thumbnail
           - ../source/_patterns/02-molecules/branding
           - ../source/_patterns/02-molecules/caption-block
+          - ../source/_patterns/02-molecules/site/site-footer
+          - ../source/_patterns/02-molecules/site/site-header
+          - ../source/_patterns/02-molecules/temp-site-copy/site/site-footer
+          - ../source/_patterns/02-molecules/temp-site-copy/site/site-header
       organisms:
         paths:
           - ../source/_patterns/03-organisms
           - ../source/_patterns/03-organisms/grids/caption-grid-block
           - ../source/_patterns/03-organisms/grids/thumbnail-grid
-          - ../source/_patterns/03-organisms/site
           - ../source/_patterns/03-organisms/site/site-footer
           - ../source/_patterns/03-organisms/site/site-header
       templates:
