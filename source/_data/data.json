@@ -29,39 +29,30 @@
   "copy_text2": "Design:",
   "copy_text3": "Demo Images:",
   "copy_url": "http://unsplash.com",
-  "icons": [
-          {
-            "icons_text": "Twitter",
-            "icons_text": "Facebook",
-            "icons_text": "Instagram",
-            "icons_text": "Dribbble",
-            "icons_text": "GitHub",
-            "icons_text": "500px",
-            "icons_text": "Phone",
-            "icons_text": "Email"
-          }
-        ],
 
-        "menus":[
-              {
-          "hamburger_link": "index.html",
-          "hamburger_link": "generic.html",
-          "hamburger_link": "generic.html",
-          "hamburger_link": "generic.html",
-          "hamburger_link": "elements.html"
-          }
-        ],
 
-        "items":[
-        {
-        "hamburger_text": "Home",
-        "hamburger_text": "Ipsum veroeros",
-        "hamburger_text": "Tempus etiam",
-        "hamburger_text": "Consequat dolor",
-        "hamburger_text": "Elements"
+  "icons_text1": "Twitter",
+  "icons_text2": "Facebook",
+  "icons_text3": "Instagram",
+  "icons_text4": "Dribbble",
+  "icons_text5": "GitHub",
+  "icons_text6": "500px",
+  "icons_text7": "Phone",
+  "icons_text8": "Email",
 
-        }
-        ],
+
+  "hamburger_link1": "index.html",
+  "hamburger_link2": "generic.html",
+  "hamburger_link3": "generic.html",
+  "hamburger_link4": "generic.html",
+  "hamburger_link5": "elements.html",
+
+
+  "hamburger_text1": "Home",
+  "hamburger_text2": "Ipsum veroeros",
+  "hamburger_text3": "Tempus etiam",
+  "hamburger_text4": "Consequat dolor",
+  "hamburger_text5": "Elements",
 
   "headline": {
     "short": "Faker.words(3, true)",
