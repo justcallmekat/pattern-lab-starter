@@ -7,6 +7,62 @@
   "text": "Faker.words(3, true)",
   "site_title": "Faker.words(2, true)",
   "site_slogan": "Faker.words(5, true)",
+  "menu_link": "#menu",
+  "menu_text": "Menu",
+  "logo_link": "index.html",
+  "logo_img": "../../../../../images/logo.svg",
+  "img_alt": "This is an image",
+  "logo_header": "Phantom",
+  "menu_subhead": "Menu",
+  "html5_up": "http://html5up.net",
+  "html5_up_text": "HTML5 UP",
+  "main_desc": "Etiam quis viverra lorem, in semper lorem. Sed nisl arcu euismod sit amet nisi euismod sed cursus arcu elementum ipsum arcu vivamus quis venenatis orci lorem ipsum et magna feugiat veroeros aliquam. Lorem ipsum dolor sit amet nullam dolore.",
+  "main_header1": "This is Phantom, a free, fully responsive site",
+  "main_header2": "template designed by",
+  "hamburger_close": "Close",
+  "main_desc_end": ".",
+  "footer_subhead1": "Get in touch",
+  "footer_subhead2": "Follow",
+  "dummy_link": "#",
+  "copy_sym": "&copy;",
+  "copy_text1": "Untitled. All rights reserved",
+  "copy_text2": "Design:",
+  "copy_text3": "Demo Images:",
+  "copy_url": "http://unsplash.com",
+  "icons": [
+          {
+            "icons_text": "Twitter",
+            "icons_text": "Facebook",
+            "icons_text": "Instagram",
+            "icons_text": "Dribbble",
+            "icons_text": "GitHub",
+            "icons_text": "500px",
+            "icons_text": "Phone",
+            "icons_text": "Email"
+          }
+        ],
+
+        "menus":[
+              {
+          "hamburger_link": "index.html",
+          "hamburger_link": "generic.html",
+          "hamburger_link": "generic.html",
+          "hamburger_link": "generic.html",
+          "hamburger_link": "elements.html"
+          }
+        ],
+
+        "items":[
+        {
+        "hamburger_text": "Home",
+        "hamburger_text": "Ipsum veroeros",
+        "hamburger_text": "Tempus etiam",
+        "hamburger_text": "Consequat dolor",
+        "hamburger_text": "Elements"
+
+        }
+        ],
+
   "headline": {
     "short": "Faker.words(3, true)",
     "medium": "Faker.words(7, true)"
