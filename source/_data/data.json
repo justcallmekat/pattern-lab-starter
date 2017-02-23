@@ -40,19 +40,32 @@
   "icons_text7": "Phone",
   "icons_text8": "Email",
 
+  "hamburger_link": "index.html",
+  "hamburger_text": "Home",
 
-  "hamburger_link1": "index.html",
-  "hamburger_link2": "generic.html",
-  "hamburger_link3": "generic.html",
-  "hamburger_link4": "generic.html",
-  "hamburger_link5": "elements.html",
+"hamburgers": [
+  {
+    "hamburger_link": "index.html",
+    "hamburger_text": "Home"
+  },
+  {
+    "hamburger_link": "generic.html",
+    "hamburger_text": "Ipsum veroeros"
+  },
+  {
+    "hamburger_link": "generic.html",
+    "hamburger_text": "Tempus etiam"
+  },
+  {
+    "hamburger_link": "generic.html",
+    "hamburger_text": "Consequat dolor"
+  },
+  {
+    "hamburger_link": "elements.html",
+    "hamburger_text": "Elements"
+  }
+],
 
-
-  "hamburger_text1": "Home",
-  "hamburger_text2": "Ipsum veroeros",
-  "hamburger_text3": "Tempus etiam",
-  "hamburger_text4": "Consequat dolor",
-  "hamburger_text5": "Elements",
 
   "headline": {
     "short": "Faker.words(3, true)",

@@ -11,9 +11,10 @@
 <nav id="menu">
 
   <h2>{{menu_text}}</h2>
-<ul>{% include '@atoms/phantom-hamburger.twig'%}</ul>
-    
-      </nav><!-- /#menu-->
+{% for hamburger in hamburgers %}
+<ul>{% include '@atoms/phantom-hamburger.twig' with hamburger %}</ul>
+{% endfor %}
+  </nav><!-- /#menu-->
       <!-- menu END-->
 
 
