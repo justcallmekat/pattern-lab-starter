@@ -30,7 +30,6 @@
   "copy_text3": "Demo Images:",
   "copy_url": "http://unsplash.com",
 
-
   "icons_text1": "Twitter",
   "icons_text2": "Facebook",
   "icons_text3": "Instagram",
@@ -39,32 +38,6 @@
   "icons_text6": "500px",
   "icons_text7": "Phone",
   "icons_text8": "Email",
-
-  "hamburger_link": "index.html",
-  "hamburger_text": "Home",
-
-"hamburgers": [
-  {
-    "hamburger_link": "index.html",
-    "hamburger_text": "Home"
-  },
-  {
-    "hamburger_link": "generic.html",
-    "hamburger_text": "Ipsum veroeros"
-  },
-  {
-    "hamburger_link": "generic.html",
-    "hamburger_text": "Tempus etiam"
-  },
-  {
-    "hamburger_link": "generic.html",
-    "hamburger_text": "Consequat dolor"
-  },
-  {
-    "hamburger_link": "elements.html",
-    "hamburger_text": "Elements"
-  }
-],
 
 
   "headline": {

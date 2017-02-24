@@ -1,0 +1,25 @@
+{
+  "hamburgers": [
+        {
+          "hamburger_link": "index.html",
+          "hamburger_text": "Home"
+        },
+        {
+          "hamburger_link": "generic.html",
+          "hamburger_text": "Ipsum veroeros"
+        },
+        {
+          "hamburger_link": "generic.html",
+          "hamburger_text": "Tempus etiam"
+        },
+        {
+          "hamburger_link": "generic.html",
+          "hamburger_text": "Consequat dolor"
+        },
+        {
+          "hamburger_link": "elements.html",
+          "hamburger_text": "Elements"
+        }
+  ]
+
+}

@@ -40,8 +40,6 @@ component-libraries:
       - source/_patterns/02-molecules/caption-block
       - source/_patterns/02-molecules/site/site-footer
       - source/_patterns/02-molecules/site/site-header
-      - source/_patterns/02-molecules/site
-      - source/_patterns/02-molecules/site/x-phantom-full.twig
   organisms:
     paths:
       - source/_patterns/03-organisms

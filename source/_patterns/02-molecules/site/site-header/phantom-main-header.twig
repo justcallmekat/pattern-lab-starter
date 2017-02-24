@@ -8,13 +8,9 @@
 </header><!--/#header-->
 
 <!-- Menu -->
-<nav id="menu">
-
-  <h2>{{menu_text}}</h2>
 {% for hamburger in hamburgers %}
-<ul>{% include '@atoms/phantom-hamburger.twig' with hamburger %}</ul>
-{% endfor %}
-  </nav><!-- /#menu-->
+ {% include '@molecules/phantom-hamburger.twig' with hamburger %}
+ {% endfor %}
       <!-- menu END-->
 
 
